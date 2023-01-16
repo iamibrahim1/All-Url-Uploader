@@ -120,6 +120,6 @@ I am Powerful Url Uploader Bot
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 2GB due to Telegram API limitations."
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Dᴏᴡɴʟᴏᴀᴅᴇᴅ ɪɴ {} sᴇᴄᴏɴᴅs.\n\nTʜᴀɴᴋs Fᴏʀ Usɪɴɢ Mᴇ\n\nUᴘʟᴏᴀᴅᴇᴅ ɪɴ {} sᴇᴄᴏɴᴅs"
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "✅ Media cleared succesfully."
-    CUSTOM_CAPTION_UL_FILE = " "
+    CUSTOM_CAPTION_UL_FILE = "By @hater786 "
     NO_VOID_FORMAT_FOUND = "ERROR... <code>{}</code>"
     SLOW_URL_DECED = "Gosh that seems to be a very slow URL. Since you were screwing my home, I am in no mood to download this file. Meanwhile, why don't you try :==> our mirror leech bot and get me a fast URL or any torrent file so that I can upload to Telegram, without me slowing down for other users."
