@@ -47,15 +47,11 @@ I am Powerful Url Uploader Bot
     ABOUT_TEXT = """
 <b>♻️ My Name</b> : Url Uploader Bot
 
-<b>🌀 Channel</b> : <a href="https://t.me/TMWAD">@TMWAD</a>
+<b>🌀 Channel</b> : <a href="https://t.me/real13xx">@real13xx</a>
 
-<b>🌺 Heroku</b> : <a href="https://heroku.com/">Heroku</a>
+<b>🌺 Support</b> : <a href="https://t.me/+NB9dvtZfvWUyNzRk">Support</a>
 
-<b>📑 Language :</b> <a href="https://www.python.org/">Python 3.10.5</a>
-
-<b>🇵🇲 Framework :</b> <a href="https://docs.pyrogram.org/">Pyrogram 2.0.30</a>
-
-<b>👲 Developer :</b> <a href="https://t.me/kinu6">@kinu6</a>
+<b>👲 Owner :</b> <a href="https://t.me/hater786">@hater786</a>
 
 """
 
@@ -126,4 +122,4 @@ I am Powerful Url Uploader Bot
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "✅ Media cleared succesfully."
     CUSTOM_CAPTION_UL_FILE = " "
     NO_VOID_FORMAT_FOUND = "ERROR... <code>{}</code>"
-    SLOW_URL_DECED = "Gosh that seems to be a very slow URL. Since you were screwing my home, I am in no mood to download this file. Meanwhile, why don't you try this:==> https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
+    SLOW_URL_DECED = "Gosh that seems to be a very slow URL. Since you were screwing my home, I am in no mood to download this file. Meanwhile, why don't you try :==> our mirror leech bot and get me a fast URL or any torrent file so that I can upload to Telegram, without me slowing down for other users."
